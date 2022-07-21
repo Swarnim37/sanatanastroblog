@@ -43,7 +43,7 @@ fistula maerens. Et inde visa cratem nisi pennis nomine gestu; ille gemit sed.
 
 ## Nunc dixi Pentheus augent
 
-![alt text](/img/childbirth/dc4.png)
+![alt text](/img/childbirth/dc4.PNG)
 
 Admovet luctus, **aequora ordine** ex addiderat exitus habebit, _hic coniugii_.
 Ante latet venit quoniam atris!
@@ -72,3 +72,5 @@ inmotaeque lintea **sospes sola limbo** Abas timorem coniugium? Vocem evolat
 placet dederant illa, casus igne tenemus sed ducit tabulas discordibus? Quae
 pars seque, dat at contigerat pone sanctaque acta contendere mortalia livor
 nimia aperta vivit.
+
+![alt text](https://ibb.co/kyyfjCr "image Title")
