@@ -34,6 +34,10 @@ export default function Home({ posts }) {
         <title>Sanatan Astrology Blogs</title>
         <meta name="description" content="Vedic Astrology Blogs And Services" />
         <link rel="icon" href="/img/logosvg.svg" />
+        <meta
+          name="Keywords"
+          content=" Vedic Astrology, Chart reading, Astrology consultations"
+        />
       </Head>
 
       <main>
