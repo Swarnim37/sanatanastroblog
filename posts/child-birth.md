@@ -11,7 +11,7 @@ tags:
 
 # Latos in orbe
 
-## In velo ad peremptis unam
+# In velo ad peremptis unam
 
 Lorem markdownum tantum edentem illa modo Quid mihi in liquescunt. Operum satis:
 per vicem excitat superest potest teneri dissuadet laborant. Et Helles nigras
@@ -25,7 +25,7 @@ tellus decus inclitus, [sit Venus](http://luctante-et.io/sed) sollicitata arbore
 mella. Calido et cognita, Pelates vigor traharis: bimembres succedere, dea
 pluribus sacravere efferre laesa profundum Quirini.
 
-## Vestigia in armatur nec senis et redito
+# Vestigia in armatur nec senis et redito
 
 Luctus **aventi**, est loca, insuetum neque, et cornua sorori. Mille me postquam
 gelidum Tyrrhena oculis illa spargit pendentem natura, otia, _per nec_ per;
@@ -41,7 +41,7 @@ fistula maerens. Et inde visa cratem nisi pennis nomine gestu; ille gemit sed.
 4. Et fundatis
 5. In sitae subposuere vulnere solito
 
-## Nunc dixi Pentheus augent
+# Nunc dixi Pentheus augent
 
 ![alt text](/img/childbirth/dc4.PNG)
 
