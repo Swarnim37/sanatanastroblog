@@ -13,6 +13,10 @@ tags:
 
 ## In velo ad peremptis unam
 
+![North Indian](/img/childbirth/dpnbigger.JPG)
+
+<img src="/img/childbirth/dpn.JPG" width="200" height="100">
+
 Lorem markdownum tantum edentem illa modo Quid mihi in liquescunt. Operum satis:
 per vicem excitat superest potest teneri dissuadet laborant. Et Helles nigras
 cum, tamen spernimus, Daphnidis mortis erunt amans aliis sed, ait apex multaque
