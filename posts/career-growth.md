@@ -13,7 +13,7 @@ tags:
 
 ## In velo ad peremptis unam
 
-![North Indian](/img/childbirth/dpnbigger.JPG)
+![North Indian](/img/childbirth/dpnbigest.JPG)
 
 ![North Indian](/img/childbirth/dpnbigger.JPG)
 
