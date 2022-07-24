@@ -39,6 +39,9 @@ function BlogPage({ frontMatter, content }) {
   return (
     <div className="prose mx-auto font-abc">
       <h1 className="text-2xl py-4">{frontMatter.title}</h1>
+      <h1 className="text-xl py-4">{frontMatter.title}</h1>
+      <h1 className="text-base py-4">{frontMatter.title}</h1>
+
       <article
         className="prose lg:prose-xl ml-3 font-abc mr-3 text-justify px-8"
         dangerouslySetInnerHTML={{ __html: md().render(content) }}
