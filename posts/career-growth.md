@@ -15,7 +15,7 @@ tags:
 
 ![North Indian](/img/childbirth/dpnbigger.JPG)
 
-<img src="/img/childbirth/dpn.JPG" width="200" height="100">
+![North Indian](/img/childbirth/dpnbigger.JPG)
 
 Lorem markdownum tantum edentem illa modo Quid mihi in liquescunt. Operum satis:
 per vicem excitat superest potest teneri dissuadet laborant. Et Helles nigras
