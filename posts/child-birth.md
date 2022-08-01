@@ -139,8 +139,6 @@ The next day, she confirmed that for some reason she never got a chance to be in
 
 Again, I started with her natal chart, focusing on her question, the 5th lord and the house were fine, the lord was in Kendra house, aspected by a friend Mars (1st lord). The 5th house was aspected by the two most benefic planets, Jupiter and Venus. The Karaka Jupiter (9th lord) was comfortable in its own house and sign. The only blemish was the presence of Rahu. Even Rahu was positively aspected.
 
-Again, I started with her natal chart, focusing on her question, the 5th lord and the house were fine, the lord was in Kendra house, aspected by a friend Mars (1st lord). The 5th house was aspected by the two most benefic planets, Jupiter and Venus. The Karaka Jupiter (9th lord) was comfortable in its own house and sign. The only blemish was the presence of Rahu. Even Rahu was positively aspected.
-
 At that time, she just started her Rahu-Saturn-Saturn. Both mahadasha and antardasha were capable of granting a child. I told her Rahu-Saturn-Sun should be the time.
 
 Let’s see how.
