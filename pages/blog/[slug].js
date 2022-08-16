@@ -38,12 +38,14 @@ function BlogPage({ frontMatter, content }) {
   console.log(content);
   return (
     <div className="prose mx-auto font-abc">
-      <h1 className="text-2xl py-4 mb-1 ml-3 mr-3">{frontMatter.title}</h1>
+      <h1 className="text-2xl py-4 mb-1 ml-3 mr-3 tracking-tight">
+        {frontMatter.title}
+      </h1>
       <h1 className="text-xl py-1 mb-1 ml-3 mr-3">{frontMatter.author}</h1>
       <h1 className="text-base py-1 mb-10 ml-3 mr-3">{frontMatter.date}</h1>
 
       <article
-        className="prose lg:prose-xl ml-3 font-abc mr-3 px-8 text-justify"
+        className="prose lg:prose-xl ml-0 font-abc mr-0 px-8 text-left"
         dangerouslySetInnerHTML={{ __html: md().render(content) }}
       />
     </div>
