@@ -13,7 +13,7 @@ tags:
 
 Marriage and relationship are one of the most common questions for people from all age groups.
 
-How will be my marriage/relationship? When am I getting married? Will there be a breakup or divorce? When is someone special coming?
+How will be my marriage and relationship? When am I getting married? Will there be a breakup or divorce? When is someone special coming?
 
 In this article, I will try to answer the above questions with the help of Vedic astrology.
 

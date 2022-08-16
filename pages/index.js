@@ -41,10 +41,10 @@ export default function Home({ posts }) {
       </Head>
 
       <main>
-        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0 font-abc">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0 font-abc tracking-tight">
           {posts?.map((post) => {
             return (
-              <div className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col">
+              <div className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col ">
                 <Link key={`${post.slug}`} href={`/blog/${post.slug}`}>
                   <a>
                     <img src={`${post.frontMatter.socialImage}`} />

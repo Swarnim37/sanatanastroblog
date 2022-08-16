@@ -43,7 +43,7 @@ function BlogPage({ frontMatter, content }) {
       <h1 className="text-base py-1 mb-10 ml-3 mr-3">{frontMatter.date}</h1>
 
       <article
-        className="prose lg:prose-xl ml-3 font-abc mr-3 text-justify px-8"
+        className="prose lg:prose-xl ml-3 font-abc mr-3 px-8 text-justify"
         dangerouslySetInnerHTML={{ __html: md().render(content) }}
       />
     </div>
